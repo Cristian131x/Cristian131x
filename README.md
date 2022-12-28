@@ -1,7 +1,7 @@
 
 <h3 align="left">Hello, World 👋🌎</h3>
 
-<h2>About Me: 🙍‍♂️</h2>
+<h2>About Me 🙍‍♂️</h2>
 <a align="left">I am 21 years old and I am a Computer Engineering student</a>
 
 ![dinox (1)](https://user-images.githubusercontent.com/65037841/209747820-1fda2ebe-59cd-4b89-a11e-db7f1eaae4c4.gif)
