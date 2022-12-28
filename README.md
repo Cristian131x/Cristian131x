@@ -6,7 +6,7 @@
 
 ![dinox (1)](https://user-images.githubusercontent.com/65037841/209747820-1fda2ebe-59cd-4b89-a11e-db7f1eaae4c4.gif)
 
-<h2 align="left">Datebase 📚</h2>
+<h2 align="left">Database 📚</h2>
 
 ![sqlserver](https://user-images.githubusercontent.com/65037841/209744889-8c3f4141-e613-428e-8e50-83b4ec8f519f.png)
 ![oracle](https://user-images.githubusercontent.com/65037841/209745027-e994f11a-09fb-42fe-871b-53f07e6a0f12.png)
