@@ -23,7 +23,7 @@
 ![word](https://user-images.githubusercontent.com/65037841/209745256-76b4dcfa-ea89-4660-ae2b-b125d6d1f4a0.png)
 ![powerpoint](https://user-images.githubusercontent.com/65037841/209745271-9c39a0f1-cbfa-4cf2-9ccd-d94cbcaa9306.gif)
 ![excel](https://user-images.githubusercontent.com/65037841/209745265-08b932cc-cdfe-49f8-b181-52c724e770ee.png)
-
+![powerbi](https://user-images.githubusercontent.com/65037841/209752705-0b7ec6d8-f8f4-4bb4-befb-df221c99a2da.png)
 
 <h2 align="left">GitHub Stats 📊</h2>
 
